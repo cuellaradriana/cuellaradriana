@@ -15,11 +15,9 @@
 - 👯 Estoy buscando colaborar en proyectos relacionados con el desarrollo web y aplicaciones, especialmente aquellos que se centren en el backend utilizando tecnologías como Node.js, NestJS, MongoDB y PostgreSQL. Estoy interesada en contribuir a proyectos innovadores que desafíen mis habilidades y me permitan aprender y crecer como desarrolladora.
   
 - 💬 Pregúntame sobre:
-    - Mi trayectoria en la industria gastronómica y cómo hice la transición al desarrollo web.
     - Recomendaciones de recursos de aprendizaje para programación y desarrollo web.
     - Cómo abordo los desafíos técnicos y resuelvo problemas de codificación.
     - Consejos para aquellos que están comenzando en el desarrollo web y quieren mejorar sus habilidades.
-    - Cómo mantener un equilibrio entre trabajo y vida personal mientras te desarrollas profesionalmente en tecnología.
 <br/>  
 
 
