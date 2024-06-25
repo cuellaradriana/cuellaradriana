@@ -1,7 +1,4 @@
 ### ¡Hola! Soy Adriana 👋🏼  
-<div align="center">
-<img src="" align="center" height="" width="600" />
-</div>  
   
 
 ### <div align="center">👩🏻‍💻 Desarrolladora Web Full Stack orientada al Back End con experiencia en JavaScript, TypeScript, Node.js y una variedad de tecnologías modernas, me apasiona resolver problemas y crear soluciones innovadoras. Mi enfoque es la eficiencia y la claridad en cada proyecto que emprendo.
