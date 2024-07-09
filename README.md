@@ -1,7 +1,7 @@
 ### ¡Hola! Soy Adriana 👋🏼  
   
 
-### <div align="center">👩🏻‍💻 Desarrolladora Web Full Stack orientada al Back End con experiencia en JavaScript, TypeScript, Node.js y una variedad de tecnologías modernas, me apasiona resolver problemas y crear soluciones innovadoras. Mi enfoque es la eficiencia y la claridad en cada proyecto que emprendo.
+### <div align="center">👩🏻‍💻 Desarrolladora Web Full Stack con experiencia en JavaScript, TypeScript, Node.js y una variedad de tecnologías modernas, me apasiona resolver problemas y crear soluciones innovadoras. Mi enfoque es la eficiencia y la claridad en cada proyecto que emprendo.
 
 </div>  
   
@@ -9,7 +9,7 @@
 - 🚀 Actualmente estoy trabajando en el proyecto [Consorcify](https://github.com/samuel20468/consorcify)  
   
 
-- 🌱 Me encuentro aprendiendo Kubernetes y AWS
+- 🌱 Me encuentro aprendiendo AWS
 
   
 - 👯 Estoy buscando colaborar en proyectos relacionados con el desarrollo web y aplicaciones, especialmente aquellos que se centren en el backend utilizando tecnologías como Node.js, NestJS, MongoDB y PostgreSQL. Estoy interesada en contribuir a proyectos innovadores que desafíen mis habilidades y me permitan aprender y crecer como desarrolladora.
